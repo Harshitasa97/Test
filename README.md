@@ -81,3 +81,5 @@ BEGIN
 
 
 --select * from t_stored_item where wh_id = 'GPT'
+--select * from t_stored_item where wh_id = 'GPT'
+--select * from t_stored_item where wh_id = 'GPT'
